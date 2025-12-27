@@ -71,3 +71,5 @@ The project follows a structured end-to-end data science workflow:
 
 **Commit message:**
 
+pip install -r requirements.txt
+
