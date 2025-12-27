@@ -54,9 +54,6 @@ The project follows a structured end-to-end data science workflow:
 git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
 
 
-cd Telco-Customer-Churn-Analysis
-
-pip install -r requirements.txt
 
 
 
