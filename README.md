@@ -64,14 +64,10 @@ The project follows a structured end-to-end data science workflow:
 
 
 
-📌 Make sure:
-- The numbering is **2**
-- Indentation matches step 1
-- Triple backticks are correct
-
----
-
-### 3️⃣ Commit the change
+1️⃣ Click **Edit** on `README.md`  
+2️⃣ **Delete all instructional text**  
+3️⃣ Keep **only the clean steps shown above**  
+4️⃣ Scroll down and commit with:
 
 **Commit message:**
 
