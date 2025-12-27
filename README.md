@@ -43,3 +43,10 @@ The project follows a structured end-to-end data science workflow:
 5. Business Insights and Recommendations  
    - Interpreted model results  
    - Provided actionable strategies to reduce customer churn
+
+
+
+## How to Run This Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
