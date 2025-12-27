@@ -62,3 +62,5 @@ The project follows a structured end-to-end data science workflow:
 
 
 
+
+pip install -r requirements.txt
