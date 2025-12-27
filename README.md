@@ -54,7 +54,6 @@ The project follows a structured end-to-end data science workflow:
 
 ---
 
-### 2️⃣ Add ONLY this below it
 
 ```markdown
 2. Navigate to the project directory:
