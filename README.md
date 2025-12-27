@@ -52,9 +52,10 @@ The project follows a structured end-to-end data science workflow:
 
 ```bash
 git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
+```
+2. cd Telco-Customer-Churn-Analysis
 
-
-
+3. pip install -r requirements.txt
 
 
 
