@@ -54,6 +54,10 @@ The project follows a structured end-to-end data science workflow:
 git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
 
 
+2. Navigate to the project directory:
+
+```bash
+cd Telco-Customer-Churn-Analysis
 
 
 
