@@ -47,20 +47,16 @@ The project follows a structured end-to-end data science workflow:
 
 
 ## How to Run This Project
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
+
+```bash
+git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
 
 
----
-
-
-```markdown
-2. Navigate to the project directory:
-   ```bash
-   cd Telco-Customer-Churn-Analysis
-
-
-
+cd Telco-Customer-Churn-Analysis
 
 pip install -r requirements.txt
+
+
+
