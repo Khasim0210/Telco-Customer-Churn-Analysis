@@ -50,3 +50,28 @@ The project follows a structured end-to-end data science workflow:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Khasim0210/Telco-Customer-Churn-Analysis.git
+
+
+---
+
+### 2️⃣ Add ONLY this below it
+
+```markdown
+2. Navigate to the project directory:
+   ```bash
+   cd Telco-Customer-Churn-Analysis
+
+
+
+
+📌 Make sure:
+- The numbering is **2**
+- Indentation matches step 1
+- Triple backticks are correct
+
+---
+
+### 3️⃣ Commit the change
+
+**Commit message:**
+
